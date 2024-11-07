@@ -14,7 +14,7 @@ A Distro is Linux kernel bundled with OS software
 ## Redhat Family system
 
 - Comes out of Redhat Package Management software
-- keeps track of versions and bundles pieces of software and dependencies to make sure they are all correctly tied togethes
+  - keeps track of versions and bundles pieces of software and dependencies to make sure they are all correctly tied togethes
 - called **RPM** packages
 - more corporate focused
   
@@ -34,12 +34,12 @@ A Distro is Linux kernel bundled with OS software
 
 - Once kernel loads the rest has to be brought up
 - init process after the kernel runs
-- starts up services
+  - starts up services
 - brings up GUI, etc
 
 ### SystemD has advantages:
 
-- bring up multiple pieces at the "same" time or inspecific, easily customizable orders
+- bring up multiple pieces at the "same" time or in specific, easily customizable orders
 - other additional configurations to the init process
 
 **System V Init** is a series of scripts that run in order  
