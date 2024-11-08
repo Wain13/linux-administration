@@ -1,6 +1,6 @@
 # Groups
 
-## /etc/groups
+## /etc/group
 
 File lists all of the groups and supplementary members
 Doesn't necessarily show primary members
