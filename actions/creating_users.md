@@ -2,7 +2,10 @@
 
 ## New User
 
-- **useradd \<name>**
+RHMS:
+
+- **useradd -m \<name>**
+  - -m will create the home directory
 - **passwd \<name>**
 
 ## Groups
