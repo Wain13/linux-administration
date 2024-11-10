@@ -1,4 +1,4 @@
-# linux-administration
+# Linux Administration notes and informaion
 
 **https://www.youtube.com/watch?v=JnhWJbZzL58&t=1074s**
 
