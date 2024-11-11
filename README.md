@@ -1,5 +1,7 @@
 # Linux Administration notes and informaion
 
+General OS and kernel Administrative info  
+  
 **https://www.youtube.com/watch?v=JnhWJbZzL58&t=1074s**
 
 **Kernel Process** and **User process space** are separated in CPUs from 386-onward
