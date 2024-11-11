@@ -2,7 +2,7 @@
 
 General OS and kernel Administrative info  
   
-**https://www.youtube.com/watch?v=JnhWJbZzL58&t=1074s**
+**<https://www.youtube.com/watch?v=JnhWJbZzL58&t=1h58m0s>**
 
 **Kernel Process** and **User process space** are separated in CPUs from 386-onward
 
@@ -131,7 +131,9 @@ A Distro is Linux kernel bundled with OS software
   - the main user that runs the entire system
   - process that makes everything work
   - not the same as an administrative user
-    - these are usually part of a WHEEL group
+    - administrative uses sudo to run at root
+    - Redhat - wheel group
+    - Debian - sudo group
   - When you aren't root but need root access to run something use "sudo"
     - "Super User DO this thing"
   - Additional Users ca be created to limit access and prevent catastrophic operations
