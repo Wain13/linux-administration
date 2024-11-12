@@ -2,7 +2,7 @@
 
 General OS and kernel Administrative info  
   
-**<https://www.youtube.com/watch?v=JnhWJbZzL58&t=1h58m0s>**
+**<https://www.youtube.com/watch?v=JnhWJbZzL58&t=2h57m0s>**
 
 **Kernel Process** and **User process space** are separated in CPUs from 386-onward
 

@@ -1,5 +1,6 @@
 # Files
 Files are stored in different areas depending on type
+
 - Programs
 - - /usr
 - - /opt
