@@ -14,4 +14,3 @@
   - will only remove empty directory
 - **rm -R**
   - recursively remove directory and all contained files
-

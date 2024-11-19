@@ -1,4 +1,4 @@
-# Partitions
+# Disk Information
 
 ## Available Disks
 

@@ -1,15 +1,18 @@
 # Environment Variables
 
-# List environment variables
-    - **env**
+## List environment variables
+
+- **env**
   
- # Create envar
-    - **export VARNAME=xxx** 
+## Create envar
 
-# remove envar
-    - **unset VARNAME**
+- **export VARNAME=xxx** 
 
-# Using
-    - prefix the envar name with a dollar sign
-      - e.g. $HOME
+## remove envar
 
+- **unset VARNAME**
+
+## using environment variables
+
+- prefix the envar name with a dollar sign
+  - e.g. $HOME

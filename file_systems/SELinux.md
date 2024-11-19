@@ -4,7 +4,7 @@ Controls files and access to files regardless of file permissions
   
 Created by the NSA
   
-# Security Enhanced Linux
+## Security Enhanced Linux
 
 SELinux works by setting up **contexts**
 

@@ -4,7 +4,7 @@
 
 - d: directory
 - l: link
-- b: blcck device
+- b: block device
 - c: character device
 
 ## File extensions

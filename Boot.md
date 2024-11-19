@@ -1,6 +1,7 @@
 # Linux Boot Process
 
-# Bootloader
+## Bootloader
+
     Loads the operating system
         - BIOS loads first 512 bytes on hard drive
           - This is how early machines would start, just with those 512 bytes
@@ -13,7 +14,8 @@
           - Creates terminal logins
           - etc..
 
-# GRUB
+## GRUB
+
     Sets up boot options - What Kernel loads
 
     look for GRUB configurations to set boot options
@@ -23,5 +25,3 @@
         - kernel
         - ramdisk
         - grub configurations
-  
-

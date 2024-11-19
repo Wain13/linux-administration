@@ -1,12 +1,14 @@
-# Editors
+# Editing
 
 ## Viewers
+
     - **cat**
     - **less** 
       - allows scrolling
       - **q** to quit
 
 ## Editors
+
     - Vi
       - on most systems
       - archaic
@@ -22,5 +24,3 @@
       - not installed by default on Linux systems
     - gedit
       - uses GUI
-  
-  

@@ -12,7 +12,7 @@ Unmount with **umount**
   - **umount /dev/sdb1**
   - **umount /newstorage**
 
-mount and umount commands can reference fstab to determine location or device based on location
+mount and umount commands can reference **fstab** to determine location or device based on location
 
 - **mount /newstorage**
   - mounts the device listed in fstab that is designated to attach to /newstorage
@@ -38,4 +38,6 @@ Steps:
     - creates empty directory
   - **mount /dev/sdb1 /newstorage/**
     - drive is now manualy mounted, will need to be mounted again on reboot
-      - permanently mount by adding to filesystem table **/etc/fstab**
+      - permanently mount options:
+        - adding to filesystem table **/etc/fstab**
+        - adding mount command to user profile such as .bashrc
