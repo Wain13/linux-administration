@@ -32,3 +32,5 @@ passwords are encrypted with a salt, specified in shadow file
 
 - usermod -L \<username>
   - modifies the salt result in /etc/shadow
+- usermod -U \<username>
+  - unlocks

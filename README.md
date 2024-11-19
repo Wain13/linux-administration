@@ -1,6 +1,12 @@
-# Linux Administration notes and informaion
+# Linux Administration notes and information
 
-**https://www.youtube.com/watch?v=JnhWJbZzL58&t=1074s**
+Since I've had some free time and am actively pursuing employment, I've decided to brush up on my knowledge and skills, learning new tech and reviewing old ones.  
+Part of that is revisiting my Linux Administration knowledge.  
+  
+I've decided to follow the beginners youtube video from **Tech Code** for Linux Administration (**<https://www.youtube.com/watch?v=JnhWJbZzL58&t=2h57m0s>** ), and I'm keeping full notes here.  
+  
+
+## General OS and kernel Administrative info  
 
 **Kernel Process** and **User process space** are separated in CPUs from 386-onward
 
@@ -129,7 +135,9 @@ A Distro is Linux kernel bundled with OS software
   - the main user that runs the entire system
   - process that makes everything work
   - not the same as an administrative user
-    - these are usually part of a WHEEL group
+    - administrative uses sudo to run at root
+    - Redhat - wheel group
+    - Debian - sudo group
   - When you aren't root but need root access to run something use "sudo"
     - "Super User DO this thing"
   - Additional Users ca be created to limit access and prevent catastrophic operations
