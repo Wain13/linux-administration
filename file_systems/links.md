@@ -6,7 +6,7 @@
 - newly created files have a hard link
 - you can see the number of links to a file with **ls -l**
 
-## Soft links
+## Soft (symbolic) links
 
 - Location of file within the OS filesystem
 
@@ -21,5 +21,4 @@
 
 - Removing the source file of links
   - for Hard links the data still exists on the link file
-  - for soft links the data is gone
-
+  - for symbolic links the data is gone

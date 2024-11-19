@@ -1,6 +1,7 @@
 # Software updates
 
-# Updating system
+## Updating system
+
     - **yum**
       - deprecated
         - replaced by dnf
@@ -13,12 +14,14 @@
       - for Debain distros
       - **sudo apt-get update**
 
-# insalled packages
+## installed packages
+
     - **rpm -qa**
       - Redhat Package Manager
     - Redhat based distros
 
-# uninstalling
+## uninstalling
+
     - **dnf remove**
     - rpm -e
       - directly remove from redhat package manager

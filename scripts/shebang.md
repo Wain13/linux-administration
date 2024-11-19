@@ -5,9 +5,9 @@ The character sequence for designating the intepreter is called a **shebang** an
   
 ## #!
   
-**Shell scripts must have the Read permission bit set as well as Execute**
+### Shell scripts must have the Read permission bit set as well as Execute
   
-e.g.
+examples
 
 - #!/usr/bin/python
 - #!bash

@@ -1,9 +1,12 @@
 # Capturing Data
-**Screen Print**
+
+## Print Screen
+
     - take a pic of VM window if in a VM
     - Sometimes print screen works
 
-# getting data from termial
+## getting data from termial
+
     - easiest is to ssh in and copy/paste
-    - **scp** command
-  
+    - **scp [file_name]  remoteuser@remotehost:/remote/directory**
+      - secure copy

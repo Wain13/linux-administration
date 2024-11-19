@@ -1,15 +1,16 @@
 # Files
-Files are stored in different areas depending on type
 
+Files are stored in different areas depending on type
+  
 - Programs
-- - /usr
-- - /opt
-- - /bin
-- - /sbin
-- User Files
-- - /home/$USERNAME
+  - /usr
+  - /opt
+  - /bin
+  - /sbin
+- User Files 
+  - /home/$USERNAME
 - Logs
-- - /var/log
+  - /var/log
 - Configuration Files
-- - /etc
+  - /etc
   
