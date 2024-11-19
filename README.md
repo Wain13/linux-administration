@@ -5,7 +5,8 @@ Part of that is revisiting my Linux Administration knowledge.
   
 I've decided to follow the beginners youtube video from **Tech Code** for Linux Administration (**<https://www.youtube.com/watch?v=JnhWJbZzL58&t=2h57m0s>** ), and I'm keeping full notes here.  
   
-
+These notes are really for my own benefit, and so some things are summarized, simplified, or glossed over because they are obvious to me. This isn't really designed to be a full teaching tool for someone else, but I've made it public in case any of it is helpful to someone else. There will likely be some errors, and over-simplifications in some areas.
+  
 ## General OS and kernel Administrative info  
 
 **Kernel Process** and **User process space** are separated in CPUs from 386-onward
