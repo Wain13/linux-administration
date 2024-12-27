@@ -11,7 +11,9 @@
 
 Used by some commands but aren't critical like in Windows
 
-## File command
+## file command
+
+- **file \<xxx>**
 
 Can be used to show content type of file
 
